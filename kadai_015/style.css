@@ -1,10 +1,10 @@
 body {
     font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
 }
 
 :root {
     font-size: 20px;
-    text-align: center;
 }
 
 .blue {
